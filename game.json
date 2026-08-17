@@ -1,0 +1,15 @@
+{
+  "slug": "pokemon-party-jamboree",
+  "title": "포켓몬 파티 잼보리",
+  "emoji": "🎲",
+  "category": "시뮬레이션",
+  "description": "주사위를 굴려 보드를 도는 파티 게임",
+  "longDescription": "마리오 파티처럼 주사위를 굴려 보드판을 돌면서 별을 모으는 파티 게임입니다. 칸마다 다른 사건이 일어나고 미니게임으로 승부가 갈립니다. 원래는 친구와 같이 하는 멀티플레이로 만들었습니다.",
+  "techStack": [
+    "Vite",
+    "JavaScript",
+    "Node.js"
+  ],
+  "createdAt": "2026-02",
+  "featured": false
+}
